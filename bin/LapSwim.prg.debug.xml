@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<debugInfo>
+<pcToLineNum>
+<entry filename="/Users/marcel/eclipse-workspace/LapSwim/source/LapSwimMenuDelegate.mc" id="3" lineNum="6" pc="268435456" symbol="initialize"/>
+<entry filename="/Users/marcel/eclipse-workspace/LapSwim/source/LapSwimMenuDelegate.mc" id="3" lineNum="7" pc="268435460" symbol="initialize"/>
+<entry filename="/Users/marcel/eclipse-workspace/LapSwim/source/LapSwimMenuDelegate.mc" id="4" lineNum="10" pc="268435479" symbol="onMenuItem"/>
+<entry filename="/Users/marcel/eclipse-workspace/LapSwim/source/LapSwimMenuDelegate.mc" id="4" lineNum="11" pc="268435483" symbol="onMenuItem"/>
+<entry filename="/Users/marcel/eclipse-workspace/LapSwim/source/LapSwimMenuDelegate.mc" id="4" lineNum="12" pc="268435494" symbol="onMenuItem"/>
+<entry filename="/Users/marcel/eclipse-workspace/LapSwim/source/LapSwimMenuDelegate.mc" id="4" lineNum="13" pc="268435518" symbol="onMenuItem"/>
+<entry filename="/Users/marcel/eclipse-workspace/LapSwim/source/LapSwimMenuDelegate.mc" id="4" lineNum="14" pc="268435529" symbol="onMenuItem"/>
+<entry filename="/Users/marcel/eclipse-workspace/LapSwim/source/LapSwimApp.mc" id="6" lineNum="6" pc="268435554" symbol="initialize"/>
+<entry filename="/Users/marcel/eclipse-workspace/LapSwim/source/LapSwimApp.mc" id="6" lineNum="7" pc="268435558" symbol="initialize"/>
+<entry filename="/Users/marcel/eclipse-workspace/LapSwim/source/LapSwimApp.mc" id="7" lineNum="11" pc="268435577" symbol="onStart"/>
+<entry filename="/Users/marcel/eclipse-workspace/LapSwim/source/LapSwimApp.mc" id="8" lineNum="15" pc="268435582" symbol="onStop"/>
+<entry filename="/Users/marcel/eclipse-workspace/LapSwim/source/LapSwimApp.mc" id="9" lineNum="19" pc="268435587" symbol="getInitialView"/>
+<entry filename="/Users/marcel/eclipse-workspace/LapSwim/source/LapSwimApp.mc" id="9" lineNum="20" pc="268435591" symbol="getInitialView"/>
+<entry filename="/Users/marcel/eclipse-workspace/LapSwim/source/LapSwimDelegate.mc" id="11" lineNum="5" pc="268435659" symbol="initialize"/>
+<entry filename="/Users/marcel/eclipse-workspace/LapSwim/source/LapSwimDelegate.mc" id="11" lineNum="6" pc="268435663" symbol="initialize"/>
+<entry filename="/Users/marcel/eclipse-workspace/LapSwim/source/LapSwimDelegate.mc" id="12" lineNum="9" pc="268435682" symbol="onMenu"/>
+<entry filename="/Users/marcel/eclipse-workspace/LapSwim/source/LapSwimDelegate.mc" id="12" lineNum="10" pc="268435686" symbol="onMenu"/>
+<entry filename="/Users/marcel/eclipse-workspace/LapSwim/source/LapSwimDelegate.mc" id="12" lineNum="11" pc="268435770" symbol="onMenu"/>
+<entry filename="/Users/marcel/eclipse-workspace/LapSwim/source/LapSwimView.mc" id="14" lineNum="5" pc="268435774" symbol="initialize"/>
+<entry filename="/Users/marcel/eclipse-workspace/LapSwim/source/LapSwimView.mc" id="14" lineNum="6" pc="268435778" symbol="initialize"/>
+<entry filename="/Users/marcel/eclipse-workspace/LapSwim/source/LapSwimView.mc" id="15" lineNum="10" pc="268435797" symbol="onLayout"/>
+<entry filename="/Users/marcel/eclipse-workspace/LapSwim/source/LapSwimView.mc" id="15" lineNum="11" pc="268435801" symbol="onLayout"/>
+<entry filename="/Users/marcel/eclipse-workspace/LapSwim/source/LapSwimView.mc" id="16" lineNum="17" pc="268435839" symbol="onShow"/>
+<entry filename="/Users/marcel/eclipse-workspace/LapSwim/source/LapSwimView.mc" id="17" lineNum="21" pc="268435844" symbol="onUpdate"/>
+<entry filename="/Users/marcel/eclipse-workspace/LapSwim/source/LapSwimView.mc" id="17" lineNum="23" pc="268435848" symbol="onUpdate"/>
+<entry filename="/Users/marcel/eclipse-workspace/LapSwim/source/LapSwimView.mc" id="18" lineNum="29" pc="268435869" symbol="onHide"/>
+<entry filename="Rez" id="24" lineNum="16" pc="268435874" symbol="initialize"/>
+<entry filename="Rez" id="24" lineNum="17" pc="268435878" symbol="initialize"/>
+<entry filename="Rez" id="24" lineNum="18" pc="268435896" symbol="initialize"/>
+<entry filename="Rez" id="24" lineNum="19" pc="268435948" symbol="initialize"/>
+<entry filename="Rez" id="27" lineNum="37" pc="268436001" symbol="MainLayout"/>
+<entry filename="Rez" id="27" lineNum="41" pc="268436013" symbol="MainLayout"/>
+<entry filename="Rez" id="27" lineNum="42" pc="268436184" symbol="MainLayout"/>
+<entry filename="Rez" id="27" lineNum="43" pc="268436217" symbol="MainLayout"/>
+<entry filename="Rez" id="27" lineNum="44" pc="268436269" symbol="MainLayout"/>
+<entry filename="Rez" id="27" lineNum="45" pc="268436385" symbol="MainLayout"/>
+<entry filename="Rez" id="27" lineNum="48" pc="268436437" symbol="MainLayout"/>
+</pcToLineNum>
+<symbolTable>
+<entry id="8388644" module="true" symbol="System"/>
+<entry id="8389124" method="true" symbol="onUpdate"/>
+<entry id="8389349" symbol="justification"/>
+<entry field="true" id="8388611" module="true" symbol="Toybox"/>
+<entry id="9" object="true" symbol="LapSwimMenuDelegate"/>
+<entry id="17" object="true" symbol="MainMenu"/>
+<entry id="8388770" module="true" object="true" symbol="Strings"/>
+<entry id="8389280" method="true" symbol="getInitialView"/>
+<entry id="8388639" module="true" symbol="Graphics"/>
+<entry id="18" method="true" symbol="MainLayout"/>
+<entry id="8388769" module="true" object="true" symbol="Rez"/>
+<entry id="8389123" method="true" symbol="onShow"/>
+<entry id="8388702" method="true" symbol="initialize"/>
+<entry field="true" id="22" symbol="AppName"/>
+<entry id="10" object="true" symbol="LapSwimApp"/>
+<entry id="8389080" method="true" symbol="onMenu"/>
+<entry id="24" symbol="item_2"/>
+<entry id="23" symbol="item_1"/>
+<entry field="true" id="16" symbol="LauncherIcon"/>
+<entry field="true" id="20" symbol="menu_label_2"/>
+<entry field="true" id="19" symbol="menu_label_1"/>
+<entry id="8388648" module="true" symbol="WatchUi"/>
+<entry id="8389281" method="true" symbol="onStop"/>
+<entry field="true" id="8389065" symbol="locY"/>
+<entry field="true" id="8389064" symbol="locX"/>
+<entry id="8388771" module="true" object="true" symbol="Drawables"/>
+<entry id="8389122" method="true" symbol="onLayout"/>
+<entry id="8389279" method="true" symbol="onStart"/>
+<entry field="true" id="15" symbol="id_monkey"/>
+<entry id="8389348" symbol="font"/>
+<entry id="8389347" symbol="color"/>
+<entry id="8389109" method="true" symbol="onMenuItem"/>
+<entry id="12" object="true" symbol="LapSwimView"/>
+<entry id="14" module="true" symbol="Layouts"/>
+<entry id="11" object="true" symbol="LapSwimDelegate"/>
+<entry field="true" id="21" symbol="prompt"/>
+<entry id="8389125" method="true" symbol="onHide"/>
+<entry id="8389345" symbol="rezId"/>
+<entry id="8390088" module="true" object="true" symbol="JsonData"/>
+<entry id="8389346" symbol="text"/>
+<entry field="true" id="8389063" symbol="identifier"/>
+<entry id="13" module="true" symbol="Menus"/>
+<entry id="8388772" module="true" object="true" symbol="Fonts"/>
+<entry id="8388635" module="true" symbol="Application"/>
+</symbolTable>
+<localVars>
+<entry endPc="268435554" name="item" stackId="1" startPc="268435479"/>
+<entry endPc="268435582" name="state" stackId="1" startPc="268435577"/>
+<entry endPc="268435587" name="state" stackId="1" startPc="268435582"/>
+<entry endPc="268435839" name="dc" stackId="1" startPc="268435797"/>
+<entry endPc="268435869" name="dc" stackId="1" startPc="268435844"/>
+<entry endPc="268436464" name="rez_cmp_local_bitmap_7063542542_fontHeight" stackId="3" startPc="268436013"/>
+<entry endPc="268436464" name="rez_cmp_local_bitmap_7063542542" stackId="2" startPc="268436013"/>
+<entry endPc="268436464" name="rez_cmp_local_bitmap_id_monkey" stackId="4" startPc="268436013"/>
+<entry endPc="268436465" name="dc" stackId="1" startPc="268436001"/>
+</localVars>
+<annotations/>
+<functions>
+<functionEntry accessMode="public" name="initialize" parent="LapSwimMenuDelegate">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onMenuItem" parent="LapSwimMenuDelegate">
+<param id="item"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="initialize" parent="LapSwimApp">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onStart" parent="LapSwimApp">
+<param id="state"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onStop" parent="LapSwimApp">
+<param id="state"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="getInitialView" parent="LapSwimApp">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="initialize" parent="LapSwimDelegate">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onMenu" parent="LapSwimDelegate">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="initialize" parent="LapSwimView">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onLayout" parent="LapSwimView">
+<param id="dc"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onShow" parent="LapSwimView">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onUpdate" parent="LapSwimView">
+<param id="dc"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onHide" parent="LapSwimView">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="initialize" parent="MainMenu">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="MainLayout" parent="Layouts">
+<param id="dc"/>
+<documentation><![CDATA[<div class="description"> Draw the layout<br/> param The context<br/></div>]]></documentation>
+</functionEntry>
+</functions>
+<dataEntryOffsetMappings>
+<dataEntry offset="87" parentId="" symbolId="globals" type="module"/>
+<dataEntry offset="198" parentId="globals" symbolId="LapSwimDelegate" type="class"/>
+<dataEntry offset="253" parentId="globals" symbolId="LapSwimMenuDelegate" type="class"/>
+<dataEntry offset="308" parentId="globals" symbolId="Rez" type="module"/>
+<dataEntry offset="387" parentId="Rez" symbolId="Drawables" type="module"/>
+<dataEntry offset="434" parentId="Rez" symbolId="Menus" type="module"/>
+<dataEntry offset="473" parentId="Menus" symbolId="MainMenu" type="class"/>
+<dataEntry offset="520" parentId="Rez" symbolId="Fonts" type="module"/>
+<dataEntry offset="551" parentId="Rez" symbolId="JsonData" type="module"/>
+<dataEntry offset="582" parentId="Rez" symbolId="Layouts" type="module"/>
+<dataEntry offset="621" parentId="Rez" symbolId="Strings" type="module"/>
+<dataEntry offset="684" parentId="globals" symbolId="LapSwimApp" type="class"/>
+<dataEntry offset="755" parentId="globals" symbolId="LapSwimView" type="class"/>
+</dataEntryOffsetMappings>
+</debugInfo>
